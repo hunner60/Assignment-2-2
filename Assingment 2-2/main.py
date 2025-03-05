@@ -4,14 +4,8 @@
 # Output: Your current age followed by your age in 2050
 
 # Create your variables here
-
-
 currentYear = 2025 
-myCurrentAge = 21
-# You can change this to your actual age
-
-
-
+myCurrentAge = 21  # You can change this to your actual age
 
 # Write your print statements here
 myNewAge = myCurrentAge + (2050 - currentYear)
